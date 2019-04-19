@@ -5,3 +5,4 @@ h1{
 .heading{color: red;}
 #line{font-style: italic;font-family: serif;}
 .intro{font-weight: bolder;}
+img{float: right;}
