@@ -4,11 +4,14 @@ h1{
 }
 .heading{color: red;}
 #line{font-style: italic;font-family: serif;}
-.intro{font-weight: bolder;}
+.intro p{font-weight: bolder;}
 img{float: right;}
 .test-box {
   border: 2px solid red;
   padding: 6px;
   margin: 20px;
   width: 200px;
+}
+body {
+  font-family: sans-serif;
 }
