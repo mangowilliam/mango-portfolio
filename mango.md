@@ -1,5 +1,5 @@
 # {mango-portfolio}
-#### {its a project about my life history,interests and hobbies}, {20/04/2019}
+#### {it's a project about my life history,interests and hobbies}, {20/04/2019}
 #### By **{william mango}**
 ## Description
 {This project tell the story of my life; hobbies,interests,and experience in life. It is only the available gateway to the other projects that I have ever worked on and published online.}
