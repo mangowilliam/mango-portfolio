@@ -3,6 +3,7 @@ h1{
   font-style: italic;line-height: 40px;
 }
 .heading{color: red;}
+.photo{text-align: right;}
 #line{font-style: italic;font-family: serif;}
 .intro p{font-weight: bolder;}
 img{float: right;}
