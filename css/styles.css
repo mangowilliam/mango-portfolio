@@ -12,6 +12,14 @@ img{float: right;}
   margin: 20px;
   width: 200px;
 }
-body {
+@media screen and (min-width: 480px) {
+    body {
   font-family: sans-serif;
+  background-color: yellowgreen;
+  }
 }
+.column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
