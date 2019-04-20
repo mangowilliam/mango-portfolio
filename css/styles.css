@@ -6,3 +6,9 @@ h1{
 #line{font-style: italic;font-family: serif;}
 .intro{font-weight: bolder;}
 img{float: right;}
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  width: 200px;
+}
