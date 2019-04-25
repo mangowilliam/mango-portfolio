@@ -1,26 +1,48 @@
-h1{
-  background-color: green; text-align: center; font-size: 14;
-  font-style: italic;line-height: 40px;
+h1 {
+  background-color: green;
+  text-align: center;
+  font-size: 14;
+  font-style: italic;
+  line-height: 40px;
 }
-.heading{color: red;}
-#photo{text-align: right;}
-#line{font-style: italic;font-family: serif;}
-.intro p{font-weight: bolder;}
-img{float: right;}
+
+.heading {
+  color: red;
+}
+
+#photo {
+  text-align: right;
+}
+
+#line {
+  font-style: italic;
+  font-family: serif;
+}
+
+.intro p {
+  font-weight: bolder;
+}
+
+img {
+  float: right;
+}
+
 .test-box {
   border: 2px solid red;
   padding: 6px;
   margin: 20px;
   width: 200px;
 }
+
 @media screen and (min-width: 480px) {
-    body {
-  font-family: sans-serif;
-  background-color: yellowgreen;
+  body {
+    font-family: sans-serif;
+    background-color: yellowgreen;
   }
 }
+
 .column {
-    width: 220px;
-    float: left;
-    padding: 15px;
-  }
+  width: 220px;
+  float: left;
+  padding: 15px;
+}
